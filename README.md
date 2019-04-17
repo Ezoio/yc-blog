@@ -3,7 +3,7 @@ vue blog
 
 # 使用方法
 ```
-git clone https://github.com/Jokcy/vue-todo-tech.git
+https://github.com/Ezoio/yc-blog
 ```
 进入项目目录，运行
 ```
@@ -13,4 +13,4 @@ npm install
 ```
 npm run dev
 ```
-开始开发项目
+

@@ -5,3 +5,4 @@ dist
 **/test/
 **.studio
 .gitignore
+package-lock.json
